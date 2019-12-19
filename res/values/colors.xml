@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/**
+ * Copyright (c) 2019, The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+-->
+<resources>
+    <!-- #ff282828 -->
+    <color name="yt_black1">@android:color/black</color>
+    <!-- #f2282828 -->
+    <color name="yt_black1_opacity95">#f2000000</color>
+    <!-- #fa282828 -->
+    <color name="yt_black1_opacity98">#fa000000</color>
+
+    <color name="yt_status_bar_background_dark">@android:color/black</color>
+
+    <!-- <color name="yt_black2">#ff000000</color>
+    <color name="yt_black3">#ff000000</color>
+    <color name="yt_black4">#ff000000</color> -->
+
+</resources>
